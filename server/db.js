@@ -8,4 +8,4 @@ module.export = new Sequelize (
         dialect: 'postgres',
         host: process.env.DB_HOST
     }
-})
+)
